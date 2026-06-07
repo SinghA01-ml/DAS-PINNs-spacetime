@@ -1,6 +1,6 @@
 # DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains
 
-This repository contains the code associated with the manuscript:
+This code repository is associated with the manuscript:
 
 **DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains**  
 Preprint: [https://doi.org/10.48550/arXiv.2606.06314](https://doi.org/10.48550/arXiv.2606.06314)
