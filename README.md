@@ -88,7 +88,7 @@ To run other problems, set `--probsetup` to the desired problem number (e.g. 20,
 
 ### Generating Validation Figure
 
-For quick validation, a reference figure for problem setup 18 generated with the reduced settings above is provided in the `Figure_validation` folder.
+For quick validation, a reference figure for problem setup 18 generated with the reduced settings above is provided in the `Figure_validation` folder as `prob18_solution_comparison.png`.
 
 To reproduce it:
 
