@@ -1,0 +1,32 @@
+total 184
+drwxrwxr-x@  5 b50093as  staff    160 20 Mar 15:33 BR_lib
+-rw-r--r--   1 b50093as  staff      0  7 Jun 01:13 contents.txt
+-rw-rw-r--@  1 b50093as  staff  44801  6 Jun 23:47 das_pde_td.py
+-rw-rw-r--@  1 b50093as  staff   7272  6 Jun 23:54 das_train_td.py
+drwxr-xr-x   3 b50093as  staff     96  7 Jun 00:38 Figure_validation
+-rw-rw-r--@  1 b50093as  staff   2822  3 Jun 13:36 nn_model.py
+-rw-rw-r--@  1 b50093as  staff  24890  3 Jun 13:37 pde_model_td.py
+drwxr-xr-x  11 b50093as  staff    352  4 Jun 12:11 plotting_scripts
+-rw-r--r--@  1 b50093as  staff   4764  7 Jun 01:01 README.md
+
+./BR_lib:
+total 128
+-rw-rw-r--@ 1 b50093as  staff  23992  3 Jun 13:36 BR_data.py
+-rw-rw-r--@ 1 b50093as  staff  28592  3 Jun 13:36 BR_layers.py
+-rw-rw-r--@ 1 b50093as  staff   8198  3 Jun 13:36 BR_model.py
+
+./Figure_validation:
+total 552
+-rw-r--r--@ 1 b50093as  staff  280994  7 Jun 00:38 prob18_solution_comparison.png
+
+./plotting_scripts:
+total 168
+-rw-r--r--@ 1 b50093as  staff  8845  3 Jun 16:16 plot_collocation_points.py
+-rw-r--r--@ 1 b50093as  staff  5828  4 Jun 10:11 plot_exact_high_dim.py
+-rw-r--r--@ 1 b50093as  staff  4695  3 Jun 16:50 plot_exact_predicted_burgers.py
+-rw-r--r--@ 1 b50093as  staff  9947  4 Jun 12:07 plot_loss_per_epoch.py
+-rw-r--r--@ 1 b50093as  staff  3105  3 Jun 16:51 plot_pointwise_error_burgers.py
+-rw-r--r--@ 1 b50093as  staff  9093  4 Jun 12:08 plot_predicted_high_dim.py
+-rw-r--r--@ 1 b50093as  staff  7467  4 Jun 12:12 plot_solution_comparison_and_error_2D_problems.py
+-rw-r--r--@ 1 b50093as  staff  9723  4 Jun 12:12 plot_solution_comparison_hd_hyperbolic.py
+-rw-r--r--@ 1 b50093as  staff  7626  6 Jun 22:41 plot_validation_error_per_epoch.py
