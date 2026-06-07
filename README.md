@@ -63,7 +63,7 @@ The following five time-dependent problems are implemented in this extension:
 | 20 | A rotating peak problem |
 | 21 | Burgers' equation |
 | 22 | High-dimensional transient Gaussian peak (heat equation) |
-| 23 | High-dimensional advection equation |
+| 23 | A high-dimensional hyperbolic problem |
 
 ---
 
