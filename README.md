@@ -11,7 +11,7 @@ Preprint: [https://doi.org/10.48550/arXiv.2606.06314](https://doi.org/10.48550/a
 
 This work extends the DAS-PINNs framework - originally developed for steady-state PDEs — to time-dependent problems. 
 Time is treated as an additional spatial dimension, so the framework operates on the full spatiotemporal domain $\Omega \times [0,T] \subset \mathbb{R}^{d+1}$.
-The original DAS-PINNs framework is due to Tang, K., Wan, X., & Yang, C. (2022). DAS-PINNs: A deep adaptive sampling method for solving high-dimensional partial 
+The original DAS-PINNs framework is Tang, K., Wan, X., & Yang, C. (2022). DAS-PINNs: A deep adaptive sampling method for solving high-dimensional partial 
 differential equations. *Journal of Computational Physics*, 476, 111868.
 This repository builds directly on their implementation, available at [github.com/MJfadeaway/DAS](https://github.com/MJfadeaway/DAS).
 
